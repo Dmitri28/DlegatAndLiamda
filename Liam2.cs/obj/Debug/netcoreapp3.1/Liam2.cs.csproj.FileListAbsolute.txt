@@ -1,0 +1,13 @@
+D:\проект на c#\Liam2.cs\Liam2.cs\bin\Debug\netcoreapp3.1\Liam2.cs.exe
+D:\проект на c#\Liam2.cs\Liam2.cs\bin\Debug\netcoreapp3.1\Liam2.cs.deps.json
+D:\проект на c#\Liam2.cs\Liam2.cs\bin\Debug\netcoreapp3.1\Liam2.cs.runtimeconfig.json
+D:\проект на c#\Liam2.cs\Liam2.cs\bin\Debug\netcoreapp3.1\Liam2.cs.runtimeconfig.dev.json
+D:\проект на c#\Liam2.cs\Liam2.cs\bin\Debug\netcoreapp3.1\Liam2.cs.dll
+D:\проект на c#\Liam2.cs\Liam2.cs\bin\Debug\netcoreapp3.1\Liam2.cs.pdb
+D:\проект на c#\Liam2.cs\Liam2.cs\obj\Debug\netcoreapp3.1\Liam2.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\проект на c#\Liam2.cs\Liam2.cs\obj\Debug\netcoreapp3.1\Liam2.cs.AssemblyInfoInputs.cache
+D:\проект на c#\Liam2.cs\Liam2.cs\obj\Debug\netcoreapp3.1\Liam2.cs.AssemblyInfo.cs
+D:\проект на c#\Liam2.cs\Liam2.cs\obj\Debug\netcoreapp3.1\Liam2.cs.csproj.CoreCompileInputs.cache
+D:\проект на c#\Liam2.cs\Liam2.cs\obj\Debug\netcoreapp3.1\Liam2.cs.dll
+D:\проект на c#\Liam2.cs\Liam2.cs\obj\Debug\netcoreapp3.1\Liam2.cs.pdb
+D:\проект на c#\Liam2.cs\Liam2.cs\obj\Debug\netcoreapp3.1\Liam2.cs.genruntimeconfig.cache
